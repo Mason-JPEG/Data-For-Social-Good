@@ -38,4 +38,5 @@ https://www.kaggle.com/datasets/mexwell/species-protection-dataset
 
 During the creation of my project, I created a progrm that analyizes information from a Kaggle data group within 4 text files. The informationg ets organized ino a class called UserStory. This program stores the species names, year when this was discovered, dangers they face, and the value which represents how dangerous the species is. Using this data, the class can analyze the arrays and identify which species has the highest danger value.
 
-In the DataRunner class, I load the data from the files and print out a summary that includes the total number of species, the most dangerous one, and a full list of all the information. This project uses, 1D arrays, constructors, and file-reading methods to display the data in a clear way
+In the DataRunner class, I uploaded the data from the files and printed out a summary that includes the total number of species, the most dangerous one, and a full list of all the information regarding the situation. This project uses, 1D arrays, constructors, and file-reading methods to display the data in
+ a clear way
